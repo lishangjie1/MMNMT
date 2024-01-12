@@ -37,4 +37,4 @@ Generate multiple language pairs: `bash run_generate_multi.sh`
 
 ## Model Evaluation
 
-Please refer to calculate_bleu.sh for details.
+Please refer to `calculate_bleu.sh` for details.
